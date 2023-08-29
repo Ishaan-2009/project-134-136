@@ -1,0 +1,35 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+
+#note
+{
+    font-size: 18px;
+    color: black;
+}
+
+#object_label
+{
+    color: white;
+}
+
+#object_input, #start, #status, #object_detection
+{
+    font-size: 18px;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px grey;
+}
